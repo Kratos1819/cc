@@ -1,0 +1,5 @@
+#docker 
+
+kubectl config current-context
+
+kubectl get nodes
